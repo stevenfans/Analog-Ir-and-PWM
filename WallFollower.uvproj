@@ -435,6 +435,16 @@
               <FileType>1</FileType>
               <FilePath>.\Nokia5110.c</FilePath>
             </File>
+            <File>
+              <FileName>GPTM_Init.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\GPTM_Init.c</FilePath>
+            </File>
+            <File>
+              <FileName>UltraSonic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\UltraSonic.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
